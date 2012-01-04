@@ -11,7 +11,7 @@ class FlightScheduler {
     {
 	if (args.length < 3)
 	    {
-		System.err.println("Syntax: Lab4b <airports> <flights> <queries>");
+		System.err.println("Syntax: FlightScheduler <airports> <flights> <queries>");
 		return;
 	    }
 	
